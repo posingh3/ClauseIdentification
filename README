@@ -1,0 +1,24 @@
+# README #
+
+### What is this project for? ###
+
+* The project deals with different types of sentences and breaks them into clauses by putting brackets at the clause boundary (GUI included).
+* Version 1.0
+
+### How do I get set up? ###
+
+* Just import the project in Netbeans or Eclipse in windows or linux and run the main class (As in the Javadocs) Or if you want to just run the clause identifier then just call the "MiniProject2" method from any other project (Class) and and decomment some of the lines of the main method of the Miniproject Class
+* Stanford POS tagger (INCLUDED)
+* No database needed. (List of cue phrases in the repository only)
+* For Testing the project, just input sentences in the GUI or decomment the some files and use the MiniProject2 Class only.
+
+### Owner ###
+
+* The code of this project is the property of "DARSHNIK SWAMY" and "POOJA SINGH" and can be used under their name in "IIIT Allahabad" only.
+* Just the find the handle "methcook" on bitbucket or "Darshnik" on Github.
+* www.facebook.com/darshnik.swamy www.facebook.com/pooja.singh
+
+Other members contributed :
+Mohamed Shaheen
+Umang Paliwal
+Kunal Eapen
